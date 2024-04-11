@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yosefor
-- 👀 I’m interested in Payton and JavaScript
-- 🌱 I’m currently learning both of them
+- 👀 I’m interested in Python and JavaScript and ML
+- 🌱 I’m currently learning how to create a usefull LLM
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 📫 How to reach me at yoseforschwartz@gmail.com
 
 <!---
 yosefor/yosefor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
